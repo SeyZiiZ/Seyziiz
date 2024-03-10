@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on my courses and on myself.<br>🌱 I’m currently learning PHP, REACT, NODE.<br>💬 Ask me about any questions !<br>⚡ Fun fact : I got 31/31 on my driving test.
+🔭 I’m currently working on my courses and on myself.<br>🌱 I’m currently learning PHP, REACT, NODE.<br>💬 Ask me any questions !<br>⚡ Fun fact : I got 31/31 on my driving test.
 
 
 ## 🌐 Socials:
