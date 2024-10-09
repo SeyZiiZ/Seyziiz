@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Young computer engineering student at a French engineering school.<br>
+💻 Young computer engineering student at a French engineering school.<br>
 🔭 I’m currently working on my courses and on myself.<br>🌱 I’m currently learning C, C++<br>💬 Ask me any questions !<br>⚡ Fun fact : I got 31/31 on my driving test.
 
 # 💻 Tech Stack:
